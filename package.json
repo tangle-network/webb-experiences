@@ -1,0 +1,17 @@
+{
+  "name": "webb-experiences",
+  "version": "1.0.0",
+  "description": "Webb product stack",
+  "repository": "git@github.com:webb-tools/webb-experiences.git",
+  "author": "Dustin Brickwood <dustinbrickwood204@gmail.com>",
+  "license": "MIT",
+  "private": true,
+
+  "scripts": {
+   "lint": "yarn prettier --write ./**/*.md"
+  },
+
+  "devDependencies": {
+    "prettier": "^2.6.1"
+  }
+}
