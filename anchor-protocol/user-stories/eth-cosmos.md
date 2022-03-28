@@ -1,7 +1,12 @@
 # Overview
 
-The purpose🟡
+The user stories outlined below describe the desired outcomes of a DeFi user with assets on ethereum, wanting to privately move them to cosmos-sdk chains. 
+- Terra
+- Cosmos
+- Osmosis
+- ThorChain  
 
+### Ethereum <> Terra
 
 <table>
     <thead>
@@ -16,6 +21,7 @@ The purpose🟡
             <td colspan=4><b>User Story:</b></br> As a DeFi user, I want to privately move DAI to UST so that I can gain access to the Terra network. </td>
     </tbody>
 </table>
+
 
 </br>
 </br>
