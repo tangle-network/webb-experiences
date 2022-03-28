@@ -45,7 +45,7 @@ Webb's software is open-source by default so should its product development. Thi
 
 We are motivated to build amazing products for our community, to deliver a seamless experience and to deeply understand our users needs. This is a dedicated space aimed at achieving those goals, where users can provide feedback, inspiration, and even contribute to Webb's product stack.
 
-### Product Strategy of Webb Ecosystem
+### Webb Ecosystem Vision
 - TODO 
 ### Repo structure
 
