@@ -1,6 +1,6 @@
 # Overview
 
-The purpose of the following user stories is to outline current and future product features for Webb's Anchor protocol. It serves to be a guideline that describes an end goal from the perspective of the end-user, and assists with informing the development teams of general feature requirements. 
+The purpose of the described user stories is to outline current and future product features for Webb's Anchor protocol. It serves to be a guideline that describes an end goal from the perspective of the end-user, and assists with informing the development teams of general feature requirements. 
 
 ### What is a user story?
 A user story captures the “who,” the “what,” and the “why” of a feature in a simple and concise way. Its purpose is to articulate how a feature will provide value to the end users. Written with non-technical vocabulary that outlines the desired outcomes for a particular user.
