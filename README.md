@@ -45,12 +45,14 @@ Webb's software is open-source by default so should its product development. Thi
 
 We are motivated to build amazing products for our community, to deliver a seamless experience and to deeply understand our users needs. This is a dedicated space aimed at achieving those goals, where users can provide feedback, inspiration, and even contribute to Webb's product stack.
 
+Have feedback on how to improve Webb's products? Or have a specific question to ask? Checkout the [Webb Feedback Discussions](https://github.com/webb-tools/feedback/discussions) 💬.
+
 ### Webb Ecosystem Vision 👓
 
 The vision for the Webb ecosystem is to empower developers to build interoperable privacy preserving applications with incredible ease. To achieve this vision we have built a private bridge system called the
 Webb Anchor Protocol.  
 
-The intended purpose of the Webb Anchor Protocol is to enable developers to build their own cross-chain, zero-knowledge applications on top of. The first application of this kind is Webb's transfer asset protocol which allows users to move private assets across EVM and Substrate chains using zero-knowledge proofs and a configurable token re-wrapping system. We intend to support additional chains to extend users ability to privately move assets in the future. 
+The intended purpose of the Webb Anchor Protocol is to enable developers to build their own cross-chain, zero-knowledge applications on top of. The first application of this kind is Webb's transfer asset protocol which allows users to move private assets across EVM and Substrate chains using zero-knowledge proofs and a configurable token re-wrapping system. We intend to support additional chains to extend users ability to privately move assets in the future. For additional insights into Webb's product vision check out our [vision board!](./vision-board.md). 
 ### Repo structure 🏢
 
 The content of this repo is divided by individual product categories. Currently, the products described in this repo include the following:
