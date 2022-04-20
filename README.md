@@ -121,22 +121,21 @@ The below table concisely outlines the product vision for Webb's Anchor Protocol
             <td colspan=4><b>👁️‍🗨️ Product Vision</b></br> To empower developers to build interoperable privacy preserving applications with incredible ease. 
         </tr>
     </thead>
-    <tbody>
-        <tr>
-          <tc>
-            <td rowspan=4><b><p style="vertical-align:super;">🎯 Target Group</b></p></br> The primary target audience are developers.</td>
-          </tc>
-          <tc>
-            <td rowspan=4><b><p style="vertical-align:super;">❤️ Needs</p></b></br> Easily create applications that are cross-chain and private by default.</td>
-          </tc>
-          <tc>
-            <td rowspan=4><b><p style="vertical-align:super;">🖥️ Product</p></b></br> Product will provide support for multiple chain implementations, and a zero-knowledge system to enable private cross-chain messaging.</td>
-          </tc>
-          <tc>
-            <td rowspan=4><b><p style="vertical-align:super;">💰 Business Goals </p></b></br> The primary business goal is to build and foster applications on top of the Anchor Protocol. Proving out the system, and its convenient usage for other development teams.</td>
-          </tc>
-        </tr>
-    </tbody>
+</table>
+
+<table>
+  <tr style="align=center;">
+    <th>🎯 Target Group</th>
+    <th>❤️ Needs</th>
+    <th>🖥️ Product</th>
+    <th>💰 Business Goals</th>
+  </tr>
+  <tr>
+    <td>The primary target audience are developers. </td>
+    <td>Easily create applications that are cross-chain and private by default.</td>
+    <td>Product will provide support for multiple chain implementations, and a zero-knowledge system to enable private cross-chain messaging.</td>
+    <td>The primary business goal is to build and foster applications on top of the Anchor Protocol. Proving out the system, and its convenient usage for other development teams..</td>
+  </tr>
 </table>
 
 <h2 id="map"> Product Roadmap 🛣️ </h2>
