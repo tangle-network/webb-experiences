@@ -19,6 +19,7 @@ The user stories outlined below describe the desired outcomes of a DeFi user wit
     <tbody>
         <tr>
             <td colspan=4><b>User Story:</b></br> As a DeFi user, I want to privately move DAI to UST so that I can gain access to the Terra network. </td>
+        </tr>
     </tbody>
 </table>
 
