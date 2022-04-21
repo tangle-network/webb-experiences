@@ -125,7 +125,7 @@ The below table concisely outlines the product vision for Webb's Anchor Protocol
 
 <table>
   <tr style="align=center;">
-    <th>🎯 Target Group</th>
+    <th>🎯 Target</th>
     <th>❤️ Needs</th>
     <th>🖥️ Product</th>
     <th>💰 Business Goals</th>
@@ -134,7 +134,7 @@ The below table concisely outlines the product vision for Webb's Anchor Protocol
     <td>The primary target audience are developers. </td>
     <td>Easily create applications that are cross-chain and private by default.</td>
     <td>Product will provide support for multiple chain implementations, and a zero-knowledge system to enable private cross-chain messaging.</td>
-    <td>The primary business goal is to build and foster applications on top of the Anchor Protocol. Proving out the system, and its convenient usage for other development teams..</td>
+    <td>The primary business goal is to build and foster applications on top of the Anchor Protocol. Proving out the system, and its convenient usage for other development teams.</td>
   </tr>
 </table>
 
@@ -173,7 +173,7 @@ Feature under consideration. We are considering building this feature, and gathe
 #### Roadmap stages
 
 The roadmap is arranged on a project board to give a sense for how far out each item is on the horizon. Every product or feature is added to a particular project board column according to the quarter in which it is expected to ship next. Be sure to read the [disclaimer](#disclaimer) below since the roadmap is subject to change, especially further out on the timeline.
-### Product Areas
+#### Product Areas
 
 The following is a list of our current product areas:
 
